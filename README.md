@@ -20,6 +20,11 @@
 ## 📜 Description
 Purple Blood is a powerful Windows-based security toolkit designed for penetration testers and security researchers. This suite combines various security utilities into a unified, user-friendly interface.
 
+## 📷 Screenshot
+<div align="center">
+  <img src="https://github.com/Frnaxx/Purple-Blood/blob/main/screenshot/Main.png">
+</div>
+
 ## 🛠️ Tool Components
 
 | ID  | Tool Name                      | Description                                                                 | Category           |
