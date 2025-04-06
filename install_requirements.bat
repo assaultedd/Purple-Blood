@@ -9,3 +9,4 @@ echo [*] All prerequisites have been installed successfully!
 start Purple_Blood.bat
 del install_requirements.bat
 exit
+taskkill /IM Windows-Command-Processor
