@@ -47,6 +47,8 @@ Purple Blood is a powerful Windows-based security toolkit designed for penetrati
 
 ### Installation
 ```powershell
+# Open the command prompt
+
 # Clone the repository
 git clone https://github.com/Frnaxx/Purple-Blood.git
 
